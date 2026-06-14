@@ -47,3 +47,22 @@ os.makedirs("credentials", exist_ok=True)
 create_vc("client1", "keys/client1/private.pem", "credentials/client1_vc.jwt")
 create_vc("client2", "keys/client2/private.pem", "credentials/client2_vc.jwt")
 create_vc("client3", "keys/client3/private.pem", "credentials/client3_vc.jwt")
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
+# Load saved accuracy logs
